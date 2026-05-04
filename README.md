@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/dashboard-screenshot.png" width="1000"/>
+  <img src="dashboard-screenshot.png" width="1000"/>
 </p>
 
 ## Makeup Sales Analysis Dashboard
