@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/dashboard-screenshot.png" width="1000"/>
+</p>
+
 ## Makeup Sales Analysis Dashboard
 
 End-to-End Data Analytics Project | Python • SQL • Power BI
@@ -71,15 +75,6 @@ Trend Analysis: Monthly revenue performance
 Comparative Insights: Product types, brands, and regions
 Distribution Analysis: Sales channels and payment methods
 Interactivity: Dynamic filtering using slicers
-
-### Dashboard Preview
-
-![Dashboard](dashboard-screenshot.png)
-
-
-### Project Demonstration
-
-(Insert video demo link here — Google Drive / YouTube / LinkedIn)
 
 ### Key Insights
 
