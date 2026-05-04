@@ -74,7 +74,7 @@ Interactivity: Dynamic filtering using slicers
 
 ### Dashboard Preview
 
-![Dashboard](dashboard screenshot.png)
+![Dashboard](dashboardscreenshot.png)
 
 
 ### Project Demonstration
